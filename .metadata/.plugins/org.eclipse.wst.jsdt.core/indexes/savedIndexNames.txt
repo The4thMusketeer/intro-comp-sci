@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\Users\akelley235\Desktop\GitHub\intro-comp-sci\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2427904981.index
+2558621217.index
+1390069130.index
+1483362782.index
